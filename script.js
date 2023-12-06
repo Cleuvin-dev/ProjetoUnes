@@ -1,0 +1,1 @@
+alert('Bem vindo ao site da Unes - Universidade para todos!');
